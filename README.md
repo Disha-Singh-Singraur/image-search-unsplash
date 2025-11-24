@@ -4,11 +4,6 @@ A responsive image search web app that fetches high-quality photos in real time 
 
 ---
 
-## 🚀 Live Demo
-🔗 <YOUR LIVE LINK>
-
----
-
 ## ✨ Features
 - Search images by keyword
 - Responsive layout
