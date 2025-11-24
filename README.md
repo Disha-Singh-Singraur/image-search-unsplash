@@ -1,2 +1,43 @@
-# image-search-unsplash
-A responsive Image Search Web App that fetches high-resolution photos in real time using the Unsplash API. Users can search keywords to explore thousands of images and open the original image on Unsplash. Designed with a clean UI and smooth user experience using HTML, CSS, and JavaScript.
+# 🌆 Image Search App (Unsplash API)
+
+A responsive image search web app that fetches high-quality photos in real time using the Unsplash API. Users can search any keyword and explore thousands of images and links to the original post on Unsplash.
+
+---
+
+## 🚀 Live Demo
+🔗 <YOUR LIVE LINK>
+
+---
+
+## ✨ Features
+- Search images by keyword
+- Responsive layout
+- Unsplash profile
+- Fast image loading with async API
+
+---
+
+## 🛠 Tech Stack
+HTML • CSS • JavaScript • Unsplash API
+
+---
+
+## 🔧 How to Run Locally
+1. Clone the project
+2. Open `script.js`
+3. Replace `"YOUR_API_KEY_HERE"` with your own Unsplash API key
+4. Open `index.html` in a browser
+
+---
+
+## 🔑 API Instruction
+- Get your Access Key from https://unsplash.com/developers
+- The real API key is NOT included in this repo for security reasons.
+
+---
+
+## 🔮 Future Improvements
+- Dark mode
+- Download button
+
+
