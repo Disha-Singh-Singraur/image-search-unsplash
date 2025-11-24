@@ -1,4 +1,4 @@
-const accessKey = "I-sgUSN_b8OQNMrsysmgWbAllLT7v7UEeFkzkPqcS0I";
+const accessKey = "YOUR_API_KEY_HERE";
 
 let input=document.querySelector("#search-box");
 let form=document.querySelector("#form");
@@ -42,4 +42,5 @@ form.addEventListener("submit",(e)=>{
 show.addEventListener("click",()=>{
     page=page+1;
     imageSearch();
+
 })
